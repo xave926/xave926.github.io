@@ -3,3 +3,8 @@
 Hi welcome to the **GUITAR (BASICS)**.
 
 ![hey](https://www.frailers.com/image/cache/data/productimage/brunswick-bf-200-acoustic-296-800x800.jpg)
+This is a guitar, obviously and this website is about whats in the title.....
+
+Lets learn!
+
+Starting off is the introduction to the parts of the guitar
