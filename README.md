@@ -11,4 +11,5 @@ Starting off is the introduction to the parts of the guitar
 
 **These are the parts and what does the parts do**
 
-**Tuning Machines** -
+**Tuning Machines** - The tuning pegs are located on the head of the guitar, and change the pitch of the guitar strings. To make the pitch go up, turn the pegs to tighten the strings. To make the pitch go down, turn the pegs to loosen the strings.
+
